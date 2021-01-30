@@ -11,8 +11,13 @@ In my free time i like listen music 🎶, watch films and series 🎬, play game
 
 ### You can find me in
 
-<a href="https://www.linkedin.com/in/marcos-lucs/">Linkedin</a>
-                 
+[<code>
+<img alt="marcos linkedin" width="26px" src="https://img.icons8.com/fluent/50/000000/linkedin.png" />
+</code>](https://www.linkedin.com/in/marcos-lucs/)
+[<code>
+<img alt="marcos mail" width="26px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
+</code>](mailto:marcoslucs@gmail.com)
+
 ---
 
 ### Languages and Tools
