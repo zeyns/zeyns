@@ -3,7 +3,7 @@
 
 ## Hi there! 😊   
 
-My name is Marcos and I'm from Brasil 🇧🇷. Currently i'am full stack developer at Accenture and I'm doing postgraduate studies in Distributed Software Architecture at PUC Minas University. I'm passionate in UX, UI, and know new tecnologies. In this moment i'm learning Flutter and improving my skills in the Javascipt's stack. 
+My name is Marcos and I'm from Brasil 🇧🇷. Currently i'am front end developer at CI&T and I'm doing postgraduate studies in Distributed Software Architecture at PUC Minas University. I'm passionate in UX, UI, and know new tecnologies.
 
 In my free time i like listen music 🎶, watch films and series 🎬, play games 🎮 , and eventually philosophize about life with a beer 🍺..
 
